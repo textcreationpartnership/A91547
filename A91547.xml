@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter, sent from an unknowne hand to that reverend man, now with God, Mr. Herbert Palmer, a Member of the Assembly concerning the great abuse of oathes. The substance whereof was published to the Parliament by the said Mr. P. the 30. of September, 1646. viz. Concerning those oaths which are used in corporations, and many other societies. The customary irreligious taking of them making it become a nationall sin, &amp; call's aloud for redresse, specially at this time now that the Parliament is upon a generall reformation. Published for a generall good, that men may take notice of this common abuse of oaths as of a nationall sinne.</title>
+            <author>P. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91547</idno>
+            <idno type="STC">Wing P93</idno>
+            <idno type="STC">Thomason E449_18</idno>
+            <idno type="EEBO-CITATION">99864456</idno>
+            <idno type="PROQUEST">99864456</idno>
+            <idno type="VID">161861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter, sent from an unknowne hand to that reverend man, now with God, Mr. Herbert Palmer, a Member of the Assembly concerning the great abuse of oathes. The substance whereof was published to the Parliament by the said Mr. P. the 30. of September, 1646. viz. Concerning those oaths which are used in corporations, and many other societies. The customary irreligious taking of them making it become a nationall sin, &amp; call's aloud for redresse, specially at this time now that the Parliament is upon a generall reformation. Published for a generall good, that men may take notice of this common abuse of oaths as of a nationall sinne.</title>
+                  <author>P. P.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed p.7: P.P.</note>
+                  <note>Annotation on Thomason copy: "June 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161861:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER Sent from an unknowne hand to that reverend man, now with God, Mr. <hi>Herbert Palmer,</hi> a Member of the Aſſem<g ref="char:EOLhyphen"/>bly concerning the great abuſe of OATHES.</p>
+            <p>The ſubſtance whereof was pub<g ref="char:EOLhyphen"/>liſhed to the Parliament by the ſaid Mr. <hi>P.</hi> the 30. of <hi>September,</hi> 1646. <hi>viz.</hi>
+            </p>
+            <p>Concerning thoſe oaths which are uſed in Corporations, and many other So<g ref="char:EOLhyphen"/>cieties. The cuſtomary irreligious taking of them making it become a Nationall ſin, &amp; call's aloud for Redreſſe, ſpecially at this time now that the Parliament is upon a gene<g ref="char:EOLhyphen"/>rall <hi>REFORMATION.</hi>
+            </p>
+            <p>Publiſhed for a generall good, that men may take notice of this common abuſe of Oaths as of a NATIONALL SINNE.</p>
+            <q>
+               <p>Becauſe of ſwearing the Land mourneſ,</p>
+               <bibl>Jer. 13.10.</bibl>
+            </q>
+            <p>
+               <add>June 23. </add> 
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161861:2"/>
+            <pb n="3" facs="tcp:161861:2"/>
+            <head>A copy of a Letter ſent to Mr. <hi>Pal<g ref="char:EOLhyphen"/>mer</hi> concerning the abuſe of Oaths for forme, cuſtome, &amp;c. in moſt Societies in this KINGDOME.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Beſeech you be pleaſed to take notice, (from the pen of a ſtranger to you,) of a way wher<g ref="char:EOLhyphen"/>in you may do a good ſervice, as is conceived, to Chriſt and his Church in this Kingdome, by being a means to repreſent unto Authority a burthen which lyeth ſadly and heavily upon many men of tender conſciences in this King<g ref="char:EOLhyphen"/>dome. And for that the Parliament is now upon a generall Reformation, it is not to be doubted but that they wil hearken to them that ſhall ſhew them what particulars according to the word of God do need it. Therefore you being ſo near them and ſo often among them, and having many opportunities put into your hands by preaching before them, and otherwiſe, to promote it. Accept I beſeech you this information, and take it as it is intended for the publique good and benefit of the faithfull, eſpecially of the weaker.</p>
+            <p>Sir, This preſſure complained of is the great multitude of needleſs oaths commanded and enjoyned, ſome by cuſtome, and ſome by the lawes of the Land, upon moſt ſort of men in this Kingdome.</p>
+            <p>There is ſcarce any ſociety that any man can be admitted into in this Kingdome, but preſently an oath is tendred him.</p>
+            <p n="1">1. Boys that are admitted into the Univerſity many times before they know what an oath is. There is tendred the oath of matriculati<g ref="char:EOLhyphen"/>on, they ſwear at their admittance to keepe Statutes which it is que<g ref="char:EOLhyphen"/>ſtionable whether or no they have ſeene before the oath taken. And whether then they ſwear in judgment, righteouſneſſe and truth, is no hard matter to determine.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:161861:3"/>
+2. As ſoon as a young man hath ſerved out his Apprent ſhip in almoſt any C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rporation; when he commeth to be made free, pre<g ref="char:EOLhyphen"/>ſently an oath is tendred him to maintain cuſtomes and priviledges of that Corporation (and enwraps him in a ſnare the ſame day that he enters into the world to ſet up for himſelf) which cuſtoms how well they can be obſerved, the practice many times ſheweth. So that the taking of an oath which is ſo ſolemn a part of Gods wor<g ref="char:EOLhyphen"/>ſhip, is made a meer formality, a ceremony, a toy, to remember ſuch a day of admittance by. In theſe kind of people the abuſe of on oath may be called a ſnare.</p>
+            <p>Then there are others, to whom it is a great burthen, a ſtum<g ref="char:EOLhyphen"/>bling block, as to all that enter into Offices, in the ordering the Common-wealth, as Majors, Sheriffs, Bailiffs, Pariſh-officers. There is ſc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rce any way for a man to be never ſo little publique, but preſently this ſnare is thrown over his neck.</p>
+            <p>If I ſhould enter upon particulars they would ſwell above the dimenſions of a letter, for they are very many, I ſhall therefore on<g ref="char:EOLhyphen"/>ly touch ſome of them.</p>
+            <p n="1">1. The Church-wardens oath is removed (bleſſed be God) with the Canons: But ſtill the Conſtables oath is continued. Every year at the entrance into his office he taketh an oath, which he is as like<g ref="char:EOLhyphen"/>ly to obſerve as the young lads at <hi>Cambridge</hi> are to keep their ma<g ref="char:EOLhyphen"/>triculation-oath, or as the former oath was kept by Church-war<g ref="char:EOLhyphen"/>dens. If the conſcience ſcruple at it, preſently they are in danger of the Law for refuſing, or elſe in danger of a troubled conſcience for acting againſt that ſcruple, by taking an oath with a doubting conſcience.</p>
+            <p>For examples hereof, take one for all, in a County wherein you have been a Paſtor<g ref="char:punc">▪</g> 
+               <hi>viz.</hi> in <hi>Hartfordſhire,</hi> at a Towne called
+<hi>Hunſ<g ref="char:EOLhyphen"/>den,</hi> where the Conſtable choſen for this year 1646. being tender of taking the oath at his entrance on that office; was therefore upon his refuſall bound over to anſwer it at the County Seſſions. And how he eſcaped, I have not yet heard; for I know not whither they have had a Seſſions ſince.</p>
+            <p>If it be objected that it is uſefull that all which enter into office ſhould have ſome Ty upon them to mind them of their office. I an<g ref="char:EOLhyphen"/>ſwer. 1. Can their be no tye found out but what muſt enſnare the conſcience? I doubt not but that there may be many wayes found out to engage them which are in office to a care of the performance far better and freer from this enſnaring the conſcience.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:161861:3"/>
+2. Thoſe that are conſcientious will be carefull without this ty; thoſe which are not, have only ſo much the more ſin bound upon their ſhoulders; for it is not like that an oath will do it, when con<g ref="char:EOLhyphen"/>ſcience of their duty moves them not.</p>
+            <p>Yet I pray conceive not that with the <hi>Anabaptiſts</hi> I ſpeak againſt all oaths, (for I know that an oath for teſtimony of a truth in queſti<g ref="char:EOLhyphen"/>on is ſo uſefull that a Chriſtian Common-wealth cannot well be without it.) But the remedy which we deſire, is,</p>
+            <p>Firſt, and principally againſt thoſe oaths which are promiſſory, and contain ſo large promiſes, and ſo many, that they are very ſel<g ref="char:EOLhyphen"/>dome performed, and ſcarce indeed poſſible to obſerve.</p>
+            <p n="2">2. Againſt thoſe which are tendered to thoſe of ſo young years, that they are ready to ſweare to any thing, not heeding.</p>
+            <p n="3">3. Againſt oaths given to them that underſtand not the nature of an oath.</p>
+            <p n="4">4. Againſt oaths preſſed on thoſe that ſcruple at matter or words <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n an oath.</p>
+            <p>I need not mention to you (who underſtand theſe things ſo wel) the great diſhonour done to the name of God by this manifold abuſe of an oath, only I ſhall mind you that this ſin is conceived to be in the number of them that are called Nationall ſins, (and therefore moſt-proper at this time of a generall Reformation to be conſide<g ref="char:EOLhyphen"/>red of) which is clear, if the obſervation of ſome be true who make that a Nationall ſin, not which is moſt frequent in a Nation, but which hath moſt authority and countenance from the laws and go<g ref="char:EOLhyphen"/>vernment of the Nation. And I humbly ſubmit to your conſidera<g ref="char:EOLhyphen"/>tion whither that Scripture, <hi>Becauſe of Oaths the Land mourns,</hi> may not as well (if not more pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>perly) be underſtood of theſe kind of oaths, as of thoſe that are raſhly uttered by prophane ones in their ordinary diſc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſe. Sure I am, ſome of theſe oaths being preſted upon ſome good Chriſtians, have been unto them a ground of mourn<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g, while they durſt not ſweare through tenderneſſe of co<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce: and by refuſall, have been debar'd of thoſe comforts they have ſought, which they have been judged uncapable of, and unfit for, becauſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fuſall.</p>
+            <p>I acknowledge that there are many theſe licentious times which cry our for liber<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of conſcience in matters not fit to be allowed them, when as it is indeed liberty to the fleſh and licentiouſneſſe, which is intended and deſired by th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. Yet Sir, there are againe
+<pb n="6" facs="tcp:161861:4"/>that are indeed tender conſciences, that out of ſuch tenderneſſe fear an oath: &amp; to whom theſe ways of impoſing an oath, are a burthen, a ſnare, ſpecially in a promiſſory oath, wherein (in regard of the multiplicity of particulars promiſed) the performance is of ſuch tranſcendent d fficulty, that it cometh near an impoſſibility. And theſe upon my knowledge (upon their refuſall) have beene made mourners, and that even in theſe times, which have promiſed o<g ref="char:EOLhyphen"/>therwiſe rejoycing to the hearts of the Saints,</p>
+            <p>Ever ſince the beginning of our troubles, both ſides have ac<g ref="char:EOLhyphen"/>knowledged that a ſpeciall regard ought to be had to tender con<g ref="char:EOLhyphen"/>ſciences; ſuch as are truly ſo indeed, and not pretended, I wiſh it were as much conſidered when it comes to practice, as it hath in words beene freely acknowledged. I am ſure thoſe that have nee<g ref="char:EOLhyphen"/>ded a reſpect to their tenderneſſe, have not found it ſo. But I ſhall not hold you any longer upon this ſubject.</p>
+            <p>In the laſt place to add ſomething concerning my ſelf who have moved you to endeavor a redreſſe this way. The ſearcher of hearts knoweth that my conſcience hath urged me hereto, as having no reſt in my ſelfe if I ſhould not endeavour ſo far as I lawfully may a Reformation of a Nationall ſin, and to be ſilent in Gods cauſe may enwrap in the guilt of the crime; whereas by labouring the remo<g ref="char:EOLhyphen"/>vall I ſhall at leaſt deliver my owne ſoule, which I beſeech you Sir, as God ſhall give you opportunity ſeriouſly to conſider and apply to your ſelfe: And though you prevaile not, yet you need not queſtion but your very endeavour is acceptable with God. And that no other end hath moved me to write unto you, ſaving only the glory of God, and the good of his Church. I beſeech him to judge (and reward me accordingly if it be otherwiſe) before whoſe judgment-ſeat we muſt one day all ſtand; wherein alſo I have con<g ref="char:EOLhyphen"/>cealed my name, and intreat you not to enquire it.</p>
+            <p>And ſecondly, why I have made ſo bold with your ſelfe in par<g ref="char:EOLhyphen"/>ticular, of all the Aſſembly to addreſſe my ſelfe unto, I ſhall give you this reaſon, that I had ſtrong encouragements to perſwade me that I ſhould prevaile with you to be the man to breake the ice in this buſineſſe by promoting it to the conſideration of Authority, for that I find you have laid to heart matters of farre l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe concerne<g ref="char:EOLhyphen"/>ment than this, in your booke of making Religion ones buſineſſe, <hi>Part</hi> 1. <hi>ſect.</hi> 5. As in our ordinary diſcourſe to ſay <hi>[with all my heart]</hi> or to uſe ſuch a word as <hi>Infinite,</hi> becauſe it is proper only to
+<pb n="7" facs="tcp:161861:4"/>God, which is a fault ſo ordinary in our ſpeech, that had not you hinted it, had beene I ſuppoſe by ſew obſerved. How much more in a ſolemn Ordinance to call upon the name of God, and <hi>ipſo facto</hi> to prophane it, by making it a meer formality.</p>
+            <p>That ſolid judicious man Mr. <hi>Reynolds</hi> of the Aſſembly, in his Sermons on <hi>Hoſea</hi> 14.1. <hi>Serm.</hi> 1. <hi>Sect.</hi> 10. hath this obſervation, <hi>That one ſin generally unreformed, unrepented of, may undoe a Kingdome.</hi> The Lord put it into the hearts of them in Authority to conſider of it now, in this generall Reformation which they are about, that they may not leave that one unreformed to the blaſting of their other endeavours.</p>
+            <p>And though I might have beene taxed of too much boldneſſe if I had written to ſome other, thus to put them upon ſuch a work; yet I have good hope of you, that that humble Spirit wherewith the Lord hath endued you, will not take amiſſe what is done by your weake brother.</p>
+            <p>The Lord bleſſe your pains in the Miniſtery, and make you inſtru<g ref="char:EOLhyphen"/>mentall of much good to his Church, which is the prayer of</p>
+            <closer>
+               <signed>Your unknown friend, a ſervant of the ſame Mr. <hi>P. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THis Letteer being ſent, &amp; delivered to that godly man Mr. <hi>Palmer,</hi> he was very ſenſible of the great diſhonour daily done the name of God by this abuſe of an Oath: and therefore the very next time that he prea<g ref="char:EOLhyphen"/>ched before the Parliament (which was at the Faſt, <hi>Sept. 30. 1646.</hi>) he earneſtly urged the removall of theſe oaths, and that ſpecially on theſe grounds. <hi>1.</hi> Becauſe Gods name is hereby from time to time fearefully ta<g ref="char:EOLhyphen"/>ken in vaine. <hi>2.</hi> The parties conſcience often wounded. <hi>3.</hi> Men are hereby inured to wretched prophaneneſſe, and not to feare an oath at any time in the moſt ſerious matters of Juſtice<g ref="char:punc">▪</g> Truth, or Righteouſneſſe. <hi>4.</hi> Becauſe it is no hard matter to find out other wayes to effect that good, for which theſe oaths were firſt introduced, as you may ſee at large in his Sermon upon <hi>Iſa. 58 12.</hi> at pag. <hi>37.</hi> Printed for <hi>T. Underhill.</hi>
+            </p>
+            <p>The Lord put it in the heart of our Parliament ſeriouſly to thinke of the removall of theſe oaths. I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were to be wiſhed that men truly conſcientious, would, before they take an oath, firſt ſeriouſly weigh and conſider the parti<g ref="char:EOLhyphen"/>culars
+<pb n="8" facs="tcp:161861:5"/>of what they ſweare un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o. There are many godly young men every year made free in the City of <hi>London,</hi> who I dare ſay if they were aware of the danger in taking that oath which is given them with their freedome, would rather abide the penally than take it. Let them but get a copy of their oath, and then ſee if it have theſe qualifications which ought to be in every Oath.</p>
+            <p n="1">
+               <hi>1.</hi> Whether or no it be made in Judgment, that is, Doe they well and throughly underſtand all the particulars which they then ſwear to perform. They ſwear to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intain the Franchiſes and Cuſtomes of the City, thoſe are the words. Doth every young man that comes out of his time well under<g ref="char:EOLhyphen"/>ſtand how many theſe be, and what.</p>
+            <p n="2">
+               <hi>2.</hi> Every oath ought to be made in Righteouſneſſe. Let him be ſure all the cuſtomes of the City which he ſwears to maintaine, be righteous.</p>
+            <p n="3">
+               <hi>3.</hi> An oath ought to be made in truth, that is, of ſuch things as we will perform: and then let him alſo looke that they be ſuch things as he can per<g ref="char:EOLhyphen"/>forme; beſides, an oath ſhould not be of things frivol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us or impertinent, or not belonging to his place and calling who takes the Oath: and let every Free-man conſider whether the oath hath theſe qualifications.</p>
+            <p>Laſtly, there are other things in that oath that imply a difficulty in kee<g ref="char:EOLhyphen"/>ping, as contribution to all charges; the word <hi>[all]</hi> is of large extent, and will quickely ſtumble a man of tender conſcience. Let us pray to God to guide us ſo that we may vſe religious ordinances<g ref="char:punc">▪</g> with that ſolempnity which is due to them, and not perform them for a faſhion, cuſtome, forma<g ref="char:EOLhyphen"/>lity or the like, as is the manner of the prophane world.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
